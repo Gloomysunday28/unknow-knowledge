@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>自动观察元素滚动</title>
+</head>
+<body>
+  <div style="height: 3000px; overflow-y: auto">
+    <div class="scrolls" style="width:100px; height: 100px;background: red">
+    </div>
+  </div>
+  <script>
+    const io = new IntersectionObserver(
+      entry => {
+        console.log(entry)
+      },
+      {
+        rootMargin: '100px'
+      }
+    )
+
+    io.observe(document.querySelector('.scrolls'))
+  </script>
+</body>
+</html>
