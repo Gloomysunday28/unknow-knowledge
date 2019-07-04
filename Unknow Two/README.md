@@ -47,4 +47,31 @@
 ![对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/font-class-two.png '对应类名')
 
 
+### Symbol svg-icon ( 逐渐成为主流技术 )
+> 优点
+```
+  1. 矢量图, 伸缩不会失真
+  2. 支持设置大小, 颜色
+  3. 支持ie9+
+  4. 可以利用css实现动画
+  5. 减少http请求
+  6. 可以精细控制SVG每一部分
+  7. 支持多色图标
+```
+
+> 说明
+```
+  symbol 不需要woff|eot|ttf|这些字体库, 只需要引入对应的js即可
+```
+
+> 使用方法
+```
+  1. 按照下图找到对应的类名
+  2. <svg class="icon" aria-hidden="true">
+      <use xlink:href="#对应类名"></use>
+     </svg>
+  3. 定义好icon的通用样式
+```
+
+![Symbol对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/symbol.png.png 'Symbol对应类名')
 
