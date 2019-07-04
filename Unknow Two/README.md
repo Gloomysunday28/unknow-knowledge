@@ -73,5 +73,5 @@
   3. 定义好icon的通用样式
 ```
 
-![Symbol对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/symbol.png.png 'Symbol对应类名')
+![Symbol对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/symbol.png 'Symbol对应类名')
 
