@@ -6,11 +6,11 @@
 ```
 ```
 优化点:
-不需要像getBoundingRect()那样去实时监听元素, 并且具有大量计算在里面
+  不需要像getBoundingRect()那样去实时监听元素, 并且具有大量计算在里面
 缺点:
-优先级很低, 只有线程闲下来才会执行, 通常是在requestIdleCallback里使用
+  优先级很低, 只有线程闲下来才会执行, 通常是在requestIdleCallback里使用
 ```
-requestIdleCallback: 等待线程全部空闲下来才执行
+> requestIdleCallback: 等待线程全部空闲下来才执行
 
 写法:
 const io = new IntersectionObserver(callback, option)
