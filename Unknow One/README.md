@@ -14,6 +14,7 @@
 
 写法:
 const io = new IntersectionObserver(callback, option)
+io.observer(el)
 ```
 callback: entries -> 被观察的元素们, 是个数组
   entries:
@@ -30,3 +31,6 @@ options:
   rootMargin: 规定了可视区域的margin值, 可放大区域
   threshold: [], 规定了什么时候触发回调函数, 参数列表可以是[0, .25, .5, .075, 1]
 ```
+
+:sparkles:
+## 关注我~ 每天告诉你一个小技巧
