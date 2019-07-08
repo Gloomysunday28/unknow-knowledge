@@ -6,8 +6,11 @@
 ```
 > 实际用处
 - 进入可视区域
+
 ![进入可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20One/enter.png '进入可视区域')
+
 - 退出可视区域
+
 ![退出可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20One/leave.png '退出可视区域')
 
 ### 项目地址
