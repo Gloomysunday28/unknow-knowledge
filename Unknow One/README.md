@@ -4,6 +4,13 @@
 ```
   浏览器原生API, 用于自动观察目标元素是否在可视区域内, 被称为交叉观察器
 ```
+> 实际用处
+- 进入可视区域
+![进入可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/enter.png '进入可视区域')
+- 退出可视区域
+![退出可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/leave.png '退出可视区域')
+
+### 简介
 ```
 优化点:
   不需要像getBoundingRect()那样去实时监听元素, 并且具有大量计算在里面
