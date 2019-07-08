@@ -19,7 +19,7 @@
   2. 项目中使用, <i class="iconfont">unicode码</i>
 ```
 
-![Unicode](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/unicode.png 'Unicode')
+![Unicode](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow2/unicode.png 'Unicode')
 
 
 ### FontClass
@@ -29,7 +29,7 @@
   2. 能够动态支持调整图标的大小, 颜色等等
   3. 可以无需引入iconfont到项目内, 直接使用动态链接
 ```
-![FontClass](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/fontclass.png 'FontClass')
+![FontClass](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow2/fontclass.png 'FontClass')
 
 > 缺点
 ```
@@ -43,8 +43,8 @@
   3. <i class="iconfont 对应的class"></i>
 ```
 
-![在线链接](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/font-class-one.png '在线链接')
-![对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/font-class-two.png '对应类名')
+![在线链接](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow2/font-class-one.png '在线链接')
+![对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow2/font-class-two.png '对应类名')
 
 
 ### Symbol svg-icon ( 逐渐成为主流技术 )
@@ -78,7 +78,7 @@
   3. 定义好icon的通用样式
 ```
 
-![Symbol对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20Two/symbol.png 'Symbol对应类名')
+![Symbol对应类名](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow2/symbol.png 'Symbol对应类名')
 
 :sparkles:
 ## 关注我~ 每天告诉你一个小技巧

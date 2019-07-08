@@ -7,14 +7,14 @@
 > 实际用处
 - 进入可视区域
 
-![进入可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20One/enter.png '进入可视区域')
+![进入可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow1/enter.png '进入可视区域')
 
 - 退出可视区域
 
-![退出可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow%20One/leave.png '退出可视区域')
+![退出可视区域](https://github.com/Gloomysunday28/unknow-knowledge/blob/master/Unknow1/leave.png '退出可视区域')
 
 ### 项目地址
-[项目地址](https://gloomysunday28.github.io/unknow-knowledge/Unknow%20One/Intersectionobserver.html)
+[项目地址](https://gloomysunday28.github.io/unknow-knowledge/Unknow1/Intersectionobserver.html)
 
 ### 简介
 ```
